@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+/build
+=======
+*.iml
+.gradle
+/local.properties
+/.idea/caches/build_file_checksums.ser
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+>>>>>>> 046e319f98996fa0dbaea0e3c2c3f69998940b2f
